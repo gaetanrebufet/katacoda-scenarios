@@ -1,0 +1,3 @@
+#!/bin/bash
+
+type_out "Don't cheat!"
