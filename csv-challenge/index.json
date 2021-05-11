@@ -29,10 +29,10 @@
     }
   },
   "environment": {
-    "hidesidebar": true,
+    "hidesidebar": false,
     "uilayout": "vscode-terminal-split"
   },
   "backend": {
-    "imageid": "ubuntu"
+    "imageid": "ubuntu:2004"
   }
 }
